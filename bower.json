@@ -1,0 +1,20 @@
+{
+  "name": "mithuntantri.in",
+  "description": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.8",
+    "angular-ui-router": "^0.2.15",
+    "jquery": "^3.1.1"
+  },
+  "resolutions": {
+    "angular": "1.5.8"
+  }
+}
